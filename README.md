@@ -1,2 +1,1 @@
-
-[Link Text](testmoz.com/14393584)
+testmoz.com/14393584
